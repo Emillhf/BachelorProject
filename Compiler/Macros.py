@@ -1,4 +1,5 @@
-
+import sys
+sys.setrecursionlimit(3000)
 def flatten(S):
     if S == []:
         return S

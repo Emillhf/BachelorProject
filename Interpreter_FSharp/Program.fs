@@ -55,11 +55,13 @@ let BinInc_2_tape = read_tape_file("Tapes_RTM/BinInc_2.txt")
 [<EntryPoint>]
 let main args =
     if args.Length = 3 && args[2] = "test" then
+        let result_filename = Path.Combine(Path.GetDirectoryName(args[0]), "result.txt")
+        writer.write_1_line result_filename [||]
         let rules = read_rules(args[0])
         let tapes = read_tape_file(args[1])
-        let result = RMT (rules,(1,0),(tapes))
-        let result_filename = Path.Combine(Path.GetDirectoryName(args[0]), "result.txt")
+        let result = RMT (rules,(1,0),(tapes))         
         writer.writeCharArrayToFile result_filename result
+
     else if args.Length = 2 then
         let rules = read_rules(args[0])
         let tapes = read_tape_file(args[1])

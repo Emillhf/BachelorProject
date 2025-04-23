@@ -1,9 +1,40 @@
 module Interpreter
-
+open System.IO
 open Helper
 open Types
 
+let Mapping_t1 =
+   Map.empty. 
+      Add('B','P').
+      Add('b','p').
+      Add('#','k').
+      Add('1','I').
+      Add('0','O').
+      Add('S','Z').
+      Add('s','z').
+      Add('!','!').
+      Add('$','$').
+      Add('H','h').
+      Add('m','w').
+      Add('M','W');;
+let Mapping_t2 =
+   Map.empty. 
+      Add('B','P').
+      Add('b','p').
+      Add('k','k').
+      Add('#','#').
+      Add('1','I').
+      Add('!','!').
+      Add('$','$').
+      Add('0','O').
+      Add('S','Z').
+      Add('s','z').
+      Add('H','h').
+      Add('m','w').
+      Add('M','W');;
+
 let RMT(rules:Map<int,list<Rule>>, (start1,final1):int*int, (input:tape,program:tape,states:tape)) =
+    File.WriteAllText("3_tape_log.txt", "\n")
     let start = start1 //Starting state is always 1
     let final = final1 //Final state is always 0
     let mutable idx1 = 0
@@ -21,13 +52,21 @@ let RMT(rules:Map<int,list<Rule>>, (start1,final1):int*int, (input:tape,program:
     let move1 (num:int) = idx1 <- idx1 + num
     let move2 (num:int) = idx2 <- idx2 + num
     let move3 (num:int) = idx3  <- idx3 + num
-        
+    
     let check (rule:Operation) =
         match rule with 
             | Move(_,_,_) -> true
-            | Symbol(t1,t2,t3) -> fst t1 = input[idx1] && fst t2 = program[idx2] && fst t3 = states[idx3]
+            | Symbol(t1,t2,t3) -> 
+                    printfn "%A" (fst t2)
+                    (fst t1 = input[idx1] || Mapping_t1[fst t1] = input[idx1]) && 
+                    (fst t2 = program[idx2] || Mapping_t2[fst t2] = program[idx2])&& fst t3 = states[idx3]
 
     let act (rule:Rule) =
+        File.AppendAllText("3_tape_log.txt", rule.ToString() + "\n")
+        File.AppendAllText("3_tape_log.txt",    System.String(input) + ", " + string(input[idx1]) + "\n")
+        File.AppendAllText("3_tape_log.txt",    System.String(program[idx2-10..idx2+10]) + ", " + string(program[idx2]) + "\n")
+        File.AppendAllText("3_tape_log.txt",    System.String(states) + "\n")
+        File.AppendAllText("3_tape_log.txt", "idx: " + idx1.ToString() + "\n\n")
         // printfn "%A" (idx1, idx2, idx3)
         // printfn "%A" (rule)
         match second rule with 
@@ -48,8 +87,15 @@ let RMT(rules:Map<int,list<Rule>>, (start1,final1):int*int, (input:tape,program:
                     | "LEFT" -> move3(-1)
                     |_-> failwith "Error when moving"
             | Symbol(t1,t2,t3) -> 
-                write1(snd t1)
-                write2(snd t2)
+                if fst t1 = input[idx1] then
+                    write1 (snd t1)
+                else
+                    write1(Mapping_t1[snd t1])
+
+                if fst t2 = program[idx2] then
+                    write2 (snd t2)
+                else
+                    write2(Mapping_t2[snd t2])
                 write3(snd t3) 
 
         updateCurrentState (third rule) //Update current_state
@@ -71,7 +117,10 @@ let RMT(rules:Map<int,list<Rule>>, (start1,final1):int*int, (input:tape,program:
             previous_state <- current_state
             search rules
         else 
+
             printfn "%A" rules[current_state]
+            printfn "%A" (input[idx1], program[idx2], states[idx3])
+            printfn "%A" (program[idx2-10..idx2+10])
             printfn "Current state: %A\nInput tape: %A, idx: %A\nProgram tape: %A, idx: %A\nState tape %A, idx: %A" current_state input idx1 program idx2 states idx3
             failwith "Rules are wrong in the above state"
     // printfn "%A" (idx1, idx2, idx3) 

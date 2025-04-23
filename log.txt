@@ -1,0 +1,9245 @@
+
+(1, Move "RIGHT", 2)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 0
+
+(2, Symbol ('1', '1'), 1)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 1
+
+(1, Move "RIGHT", 2)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 1
+
+(2, Symbol ('!', '!'), 1)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 2
+
+(1, Move "RIGHT", 2)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 2
+
+(2, Symbol ('p', 'p'), 3)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 3
+
+(3, Symbol ('p', 'p'), 5)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 3
+
+(5, Move "LEFT", 6)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 3
+
+(6, Symbol ('!', '!'), 5)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 2
+
+(5, Move "LEFT", 6)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 2
+
+(6, Symbol ('1', '1'), 5)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 1
+
+(5, Move "LEFT", 6)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 1
+
+(6, Symbol ('p', 'p'), 7)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 0
+
+(7, Move "RIGHT", 8)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 0
+
+(8, Symbol ('1', '1'), 7)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 1
+
+(7, Move "RIGHT", 8)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 1
+
+(8, Symbol ('!', '!'), 7)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 2
+
+(7, Move "RIGHT", 8)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 2
+
+(8, Symbol ('p', 'p'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 3
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 3
+
+(10, Symbol ('M', 'M'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 4
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 4
+
+(10, Symbol ('#', '#'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 5
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 5
+
+(10, Symbol ('1', '1'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 6
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 6
+
+(10, Symbol ('#', '#'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 7
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 7
+
+(10, Symbol ('0', '0'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 8
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 8
+
+(10, Symbol ('1', '1'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 9
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 9
+
+(10, Symbol ('#', '#'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 10
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 10
+
+(10, Symbol ('0', '0'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 11
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 11
+
+(10, Symbol ('1', '1'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 12
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 12
+
+(10, Symbol ('#', '#'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 13
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 13
+
+(10, Symbol ('M', 'M'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 14
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 14
+
+(10, Symbol ('S', 'S'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 15
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 15
+
+(10, Symbol ('#', '#'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 16
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 16
+
+(10, Symbol ('1', '1'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 17
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 17
+
+(10, Symbol ('0', '0'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 18
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 18
+
+(10, Symbol ('#', '#'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 19
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 19
+
+(10, Symbol ('1', '1'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 20
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 20
+
+(10, Symbol ('B', 'B'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 21
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 21
+
+(10, Symbol ('#', '#'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 22
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 22
+
+(10, Symbol ('0', '0'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 23
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 23
+
+(10, Symbol ('#', '#'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 24
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 24
+
+(10, Symbol ('S', 'S'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 25
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 25
+
+(10, Symbol ('b', 'b'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 26
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 26
+
+(10, Symbol ('$', '$'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 27
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 27
+
+(10, Symbol ('b', 'b'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 28
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 28
+
+(10, Symbol ('b', 'b'), 9)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 29
+
+(9, Move "RIGHT", 10)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 29
+
+(10, Symbol ('p', 'k'), 11)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbpbbbbb
+idx: 30
+
+(11, Symbol ('k', 'k'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 30
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 30
+
+(19948, Symbol ('b', 'b'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 29
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 29
+
+(19948, Symbol ('b', 'b'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 28
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 28
+
+(19948, Symbol ('$', '$'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 27
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 27
+
+(19948, Symbol ('b', 'b'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 26
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 26
+
+(19948, Symbol ('S', 'S'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 25
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 25
+
+(19948, Symbol ('#', '#'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 24
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 24
+
+(19948, Symbol ('0', '0'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 23
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 23
+
+(19948, Symbol ('#', '#'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 22
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 22
+
+(19948, Symbol ('B', 'B'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 21
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 21
+
+(19948, Symbol ('1', '1'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 20
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 20
+
+(19948, Symbol ('#', '#'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 19
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 19
+
+(19948, Symbol ('0', '0'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 18
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 18
+
+(19948, Symbol ('1', '1'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 17
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 17
+
+(19948, Symbol ('#', '#'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 16
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 16
+
+(19948, Symbol ('S', 'S'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 15
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 15
+
+(19948, Symbol ('M', 'M'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 14
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 14
+
+(19948, Symbol ('#', '#'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 13
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 13
+
+(19948, Symbol ('1', '1'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 12
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 12
+
+(19948, Symbol ('0', '0'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 11
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 11
+
+(19948, Symbol ('#', '#'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 10
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 10
+
+(19948, Symbol ('1', '1'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 9
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 9
+
+(19948, Symbol ('0', '0'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 8
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 8
+
+(19948, Symbol ('#', '#'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 7
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 7
+
+(19948, Symbol ('1', '1'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 6
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 6
+
+(19948, Symbol ('#', '#'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 5
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 5
+
+(19948, Symbol ('M', 'M'), 19949)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 4
+
+(19949, Move "LEFT", 19948)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 4
+
+(19948, Symbol ('p', 'p'), 19947)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 3
+
+(19947, Move "LEFT", 19946)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 3
+
+(19946, Symbol ('!', '!'), 19947)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 2
+
+(19947, Move "LEFT", 19946)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 2
+
+(19946, Symbol ('1', '1'), 19947)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 1
+
+(19947, Move "LEFT", 19946)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 1
+
+(19946, Symbol ('p', 'p'), 19945)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 0
+
+(19945, Move "RIGHT", 19944)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 0
+
+(19944, Symbol ('1', '1'), 19945)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 1
+
+(19945, Move "RIGHT", 19944)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 1
+
+(19944, Symbol ('!', '!'), 19945)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 2
+
+(19945, Move "RIGHT", 19944)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 2
+
+(19944, Symbol ('p', 'p'), 12)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 3
+
+(12, Symbol ('p', 'p'), 13)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 3
+
+(13, Symbol ('p', 'b'), 14)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 3
+
+(14, Move "STAY", 15)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 3
+
+(15, Symbol ('b', 'p'), 16)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 3
+
+(16, Move "LEFT", 17)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 3
+
+(17, Symbol ('!', '!'), 16)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 2
+
+(16, Move "LEFT", 17)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 2
+
+(17, Symbol ('1', '1'), 16)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 1
+
+(16, Move "LEFT", 17)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 1
+
+(17, Symbol ('p', 'b'), 18)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 0
+
+(18, Move "STAY", 19)
+b1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 0
+
+(19, Symbol ('b', 'p'), 20)
+b1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 0
+
+(20, Move "RIGHT", 21)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 0
+
+(21, Symbol ('1', '1'), 20)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 1
+
+(20, Move "RIGHT", 21)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 1
+
+(21, Symbol ('!', '!'), 20)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 2
+
+(20, Move "RIGHT", 21)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 2
+
+(21, Symbol ('p', 'p'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 3
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 3
+
+(23, Symbol ('M', 'M'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 4
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 4
+
+(23, Symbol ('#', '#'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 5
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 5
+
+(23, Symbol ('1', '1'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 6
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 6
+
+(23, Symbol ('#', '#'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 7
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 7
+
+(23, Symbol ('0', '0'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 8
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 8
+
+(23, Symbol ('1', '1'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 9
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 9
+
+(23, Symbol ('#', '#'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 10
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 10
+
+(23, Symbol ('0', '0'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 11
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 11
+
+(23, Symbol ('1', '1'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 12
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 12
+
+(23, Symbol ('#', '#'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 13
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 13
+
+(23, Symbol ('M', 'M'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 14
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 14
+
+(23, Symbol ('S', 'S'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 15
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 15
+
+(23, Symbol ('#', '#'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 16
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 16
+
+(23, Symbol ('1', '1'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 17
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 17
+
+(23, Symbol ('0', '0'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 18
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 18
+
+(23, Symbol ('#', '#'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 19
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 19
+
+(23, Symbol ('1', '1'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 20
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 20
+
+(23, Symbol ('B', 'B'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 21
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 21
+
+(23, Symbol ('#', '#'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 22
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 22
+
+(23, Symbol ('0', '0'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 23
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 23
+
+(23, Symbol ('#', '#'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 24
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 24
+
+(23, Symbol ('S', 'S'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 25
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 25
+
+(23, Symbol ('b', 'b'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 26
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 26
+
+(23, Symbol ('$', '$'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 27
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 27
+
+(23, Symbol ('b', 'b'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 28
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 28
+
+(23, Symbol ('b', 'b'), 22)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 29
+
+(22, Move "RIGHT", 23)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 29
+
+(23, Symbol ('k', '#'), 24)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbkbbbbb
+idx: 30
+
+(24, Move "RIGHT", 25)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#bbbbb
+idx: 30
+
+(25, Symbol ('b', 'p'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#bbbbb
+idx: 31
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 31
+
+(27, Symbol ('#', '#'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 30
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 30
+
+(27, Symbol ('b', 'b'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 29
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 29
+
+(27, Symbol ('b', 'b'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 28
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 28
+
+(27, Symbol ('$', '$'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 27
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 27
+
+(27, Symbol ('b', 'b'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 26
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 26
+
+(27, Symbol ('S', 'S'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 25
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 25
+
+(27, Symbol ('#', '#'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 24
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 24
+
+(27, Symbol ('0', '0'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 23
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 23
+
+(27, Symbol ('#', '#'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 22
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 22
+
+(27, Symbol ('B', 'B'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 21
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 21
+
+(27, Symbol ('1', '1'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 20
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 20
+
+(27, Symbol ('#', '#'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 19
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 19
+
+(27, Symbol ('0', '0'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 18
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 18
+
+(27, Symbol ('1', '1'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 17
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 17
+
+(27, Symbol ('#', '#'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 16
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 16
+
+(27, Symbol ('S', 'S'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 15
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 15
+
+(27, Symbol ('M', 'M'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 14
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 14
+
+(27, Symbol ('#', '#'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 13
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 13
+
+(27, Symbol ('1', '1'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 12
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 12
+
+(27, Symbol ('0', '0'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 11
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 11
+
+(27, Symbol ('#', '#'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 10
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 10
+
+(27, Symbol ('1', '1'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 9
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 9
+
+(27, Symbol ('0', '0'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 8
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 8
+
+(27, Symbol ('#', '#'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 7
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 7
+
+(27, Symbol ('1', '1'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 6
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 6
+
+(27, Symbol ('#', '#'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 5
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 5
+
+(27, Symbol ('M', 'M'), 26)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 4
+
+(26, Move "LEFT", 27)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 4
+
+(27, Symbol ('p', 'p'), 28)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 3
+
+(28, Symbol ('p', 'p'), 30)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 3
+
+(30, Move "LEFT", 31)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 3
+
+(31, Symbol ('!', '!'), 30)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 2
+
+(30, Move "LEFT", 31)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 2
+
+(31, Symbol ('1', '1'), 30)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 1
+
+(30, Move "LEFT", 31)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 1
+
+(31, Symbol ('p', 'p'), 32)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 0
+
+(32, Move "RIGHT", 33)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 0
+
+(33, Symbol ('1', '1'), 32)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 1
+
+(32, Move "RIGHT", 33)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 1
+
+(33, Symbol ('!', '!'), 32)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 2
+
+(32, Move "RIGHT", 33)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 2
+
+(33, Symbol ('p', 'p'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 3
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 3
+
+(35, Symbol ('M', 'M'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 4
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 4
+
+(35, Symbol ('#', '#'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 5
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 5
+
+(35, Symbol ('1', '1'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 6
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 6
+
+(35, Symbol ('#', '#'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 7
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 7
+
+(35, Symbol ('0', '0'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 8
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 8
+
+(35, Symbol ('1', '1'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 9
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 9
+
+(35, Symbol ('#', '#'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 10
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 10
+
+(35, Symbol ('0', '0'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 11
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 11
+
+(35, Symbol ('1', '1'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 12
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 12
+
+(35, Symbol ('#', '#'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 13
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 13
+
+(35, Symbol ('M', 'M'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 14
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 14
+
+(35, Symbol ('S', 'S'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 15
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 15
+
+(35, Symbol ('#', '#'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 16
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 16
+
+(35, Symbol ('1', '1'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 17
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 17
+
+(35, Symbol ('0', '0'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 18
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 18
+
+(35, Symbol ('#', '#'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 19
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 19
+
+(35, Symbol ('1', '1'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 20
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 20
+
+(35, Symbol ('B', 'B'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 21
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 21
+
+(35, Symbol ('#', '#'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 22
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 22
+
+(35, Symbol ('0', '0'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 23
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 23
+
+(35, Symbol ('#', '#'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 24
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 24
+
+(35, Symbol ('S', 'S'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 25
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 25
+
+(35, Symbol ('b', 'b'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 26
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 26
+
+(35, Symbol ('$', '$'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 27
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 27
+
+(35, Symbol ('b', 'b'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 28
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 28
+
+(35, Symbol ('b', 'b'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 29
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 29
+
+(35, Symbol ('#', '#'), 34)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 30
+
+(34, Move "RIGHT", 35)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 30
+
+(35, Symbol ('p', 'I'), 36)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#pbbbb
+idx: 31
+
+(36, Symbol ('I', 'I'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 31
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 31
+
+(19956, Symbol ('#', '#'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 30
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 30
+
+(19956, Symbol ('b', 'b'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 29
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 29
+
+(19956, Symbol ('b', 'b'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 28
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 28
+
+(19956, Symbol ('$', '$'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 27
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 27
+
+(19956, Symbol ('b', 'b'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 26
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 26
+
+(19956, Symbol ('S', 'S'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 25
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 25
+
+(19956, Symbol ('#', '#'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 24
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 24
+
+(19956, Symbol ('0', '0'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 23
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 23
+
+(19956, Symbol ('#', '#'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 22
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 22
+
+(19956, Symbol ('B', 'B'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 21
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 21
+
+(19956, Symbol ('1', '1'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 20
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 20
+
+(19956, Symbol ('#', '#'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 19
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 19
+
+(19956, Symbol ('0', '0'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 18
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 18
+
+(19956, Symbol ('1', '1'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 17
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 17
+
+(19956, Symbol ('#', '#'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 16
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 16
+
+(19956, Symbol ('S', 'S'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 15
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 15
+
+(19956, Symbol ('M', 'M'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 14
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 14
+
+(19956, Symbol ('#', '#'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 13
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 13
+
+(19956, Symbol ('1', '1'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 12
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 12
+
+(19956, Symbol ('0', '0'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 11
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 11
+
+(19956, Symbol ('#', '#'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 10
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 10
+
+(19956, Symbol ('1', '1'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 9
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 9
+
+(19956, Symbol ('0', '0'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 8
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 8
+
+(19956, Symbol ('#', '#'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 7
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 7
+
+(19956, Symbol ('1', '1'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 6
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 6
+
+(19956, Symbol ('#', '#'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 5
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 5
+
+(19956, Symbol ('M', 'M'), 19957)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 4
+
+(19957, Move "LEFT", 19956)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 4
+
+(19956, Symbol ('p', 'p'), 19955)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 3
+
+(19955, Move "LEFT", 19954)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 3
+
+(19954, Symbol ('!', '!'), 19955)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 2
+
+(19955, Move "LEFT", 19954)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 2
+
+(19954, Symbol ('1', '1'), 19955)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 1
+
+(19955, Move "LEFT", 19954)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 1
+
+(19954, Symbol ('p', 'p'), 19953)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 0
+
+(19953, Move "RIGHT", 19952)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 0
+
+(19952, Symbol ('1', '1'), 19953)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 1
+
+(19953, Move "RIGHT", 19952)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 1
+
+(19952, Symbol ('!', '!'), 19953)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 2
+
+(19953, Move "RIGHT", 19952)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 2
+
+(19952, Symbol ('p', 'p'), 37)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 3
+
+(37, Symbol ('p', 'p'), 38)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 3
+
+(38, Symbol ('p', 'b'), 39)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 3
+
+(39, Move "STAY", 40)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 3
+
+(40, Symbol ('b', 'p'), 41)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 3
+
+(41, Move "LEFT", 42)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 3
+
+(42, Symbol ('!', '!'), 41)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 2
+
+(41, Move "LEFT", 42)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 2
+
+(42, Symbol ('1', '1'), 41)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 1
+
+(41, Move "LEFT", 42)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 1
+
+(42, Symbol ('p', 'b'), 43)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 0
+
+(43, Move "STAY", 44)
+b1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 0
+
+(44, Symbol ('b', 'p'), 45)
+b1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 0
+
+(45, Move "RIGHT", 46)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 0
+
+(46, Symbol ('1', '1'), 45)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 1
+
+(45, Move "RIGHT", 46)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 1
+
+(46, Symbol ('!', '!'), 45)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 2
+
+(45, Move "RIGHT", 46)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 2
+
+(46, Symbol ('p', 'p'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 3
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 3
+
+(48, Symbol ('M', 'M'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 4
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 4
+
+(48, Symbol ('#', '#'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 5
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 5
+
+(48, Symbol ('1', '1'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 6
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 6
+
+(48, Symbol ('#', '#'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 7
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 7
+
+(48, Symbol ('0', '0'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 8
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 8
+
+(48, Symbol ('1', '1'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 9
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 9
+
+(48, Symbol ('#', '#'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 10
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 10
+
+(48, Symbol ('0', '0'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 11
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 11
+
+(48, Symbol ('1', '1'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 12
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 12
+
+(48, Symbol ('#', '#'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 13
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 13
+
+(48, Symbol ('M', 'M'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 14
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 14
+
+(48, Symbol ('S', 'S'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 15
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 15
+
+(48, Symbol ('#', '#'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 16
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 16
+
+(48, Symbol ('1', '1'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 17
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 17
+
+(48, Symbol ('0', '0'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 18
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 18
+
+(48, Symbol ('#', '#'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 19
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 19
+
+(48, Symbol ('1', '1'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 20
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 20
+
+(48, Symbol ('B', 'B'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 21
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 21
+
+(48, Symbol ('#', '#'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 22
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 22
+
+(48, Symbol ('0', '0'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 23
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 23
+
+(48, Symbol ('#', '#'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 24
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 24
+
+(48, Symbol ('S', 'S'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 25
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 25
+
+(48, Symbol ('b', 'b'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 26
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 26
+
+(48, Symbol ('$', '$'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 27
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 27
+
+(48, Symbol ('b', 'b'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 28
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 28
+
+(48, Symbol ('b', 'b'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 29
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 29
+
+(48, Symbol ('#', '#'), 47)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 30
+
+(47, Move "RIGHT", 48)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 30
+
+(48, Symbol ('I', '1'), 49)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#Ibbbb
+idx: 31
+
+(49, Move "RIGHT", 50)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1bbbb
+idx: 31
+
+(50, Symbol ('b', 'p'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1bbbb
+idx: 32
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 32
+
+(52, Symbol ('1', '1'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 31
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 31
+
+(52, Symbol ('#', '#'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 30
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 30
+
+(52, Symbol ('b', 'b'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 29
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 29
+
+(52, Symbol ('b', 'b'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 28
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 28
+
+(52, Symbol ('$', '$'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 27
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 27
+
+(52, Symbol ('b', 'b'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 26
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 26
+
+(52, Symbol ('S', 'S'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 25
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 25
+
+(52, Symbol ('#', '#'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 24
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 24
+
+(52, Symbol ('0', '0'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 23
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 23
+
+(52, Symbol ('#', '#'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 22
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 22
+
+(52, Symbol ('B', 'B'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 21
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 21
+
+(52, Symbol ('1', '1'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 20
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 20
+
+(52, Symbol ('#', '#'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 19
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 19
+
+(52, Symbol ('0', '0'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 18
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 18
+
+(52, Symbol ('1', '1'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 17
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 17
+
+(52, Symbol ('#', '#'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 16
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 16
+
+(52, Symbol ('S', 'S'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 15
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 15
+
+(52, Symbol ('M', 'M'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 14
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 14
+
+(52, Symbol ('#', '#'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 13
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 13
+
+(52, Symbol ('1', '1'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 12
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 12
+
+(52, Symbol ('0', '0'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 11
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 11
+
+(52, Symbol ('#', '#'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 10
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 10
+
+(52, Symbol ('1', '1'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 9
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 9
+
+(52, Symbol ('0', '0'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 8
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 8
+
+(52, Symbol ('#', '#'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 7
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 7
+
+(52, Symbol ('1', '1'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 6
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 6
+
+(52, Symbol ('#', '#'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 5
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 5
+
+(52, Symbol ('M', 'M'), 51)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 4
+
+(51, Move "LEFT", 52)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 4
+
+(52, Symbol ('p', 'p'), 53)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 3
+
+(53, Symbol ('p', 'p'), 55)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 3
+
+(55, Move "LEFT", 56)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 3
+
+(56, Symbol ('!', '!'), 55)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 2
+
+(55, Move "LEFT", 56)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 2
+
+(56, Symbol ('1', '1'), 55)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 1
+
+(55, Move "LEFT", 56)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 1
+
+(56, Symbol ('p', 'p'), 57)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 0
+
+(57, Move "RIGHT", 58)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 0
+
+(58, Symbol ('1', '1'), 57)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 1
+
+(57, Move "RIGHT", 58)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 1
+
+(58, Symbol ('!', '!'), 57)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 2
+
+(57, Move "RIGHT", 58)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 2
+
+(58, Symbol ('p', 'p'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 3
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 3
+
+(60, Symbol ('M', 'M'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 4
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 4
+
+(60, Symbol ('#', '#'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 5
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 5
+
+(60, Symbol ('1', '1'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 6
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 6
+
+(60, Symbol ('#', '#'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 7
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 7
+
+(60, Symbol ('0', '0'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 8
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 8
+
+(60, Symbol ('1', '1'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 9
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 9
+
+(60, Symbol ('#', '#'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 10
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 10
+
+(60, Symbol ('0', '0'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 11
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 11
+
+(60, Symbol ('1', '1'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 12
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 12
+
+(60, Symbol ('#', '#'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 13
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 13
+
+(60, Symbol ('M', 'M'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 14
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 14
+
+(60, Symbol ('S', 'S'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 15
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 15
+
+(60, Symbol ('#', '#'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 16
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 16
+
+(60, Symbol ('1', '1'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 17
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 17
+
+(60, Symbol ('0', '0'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 18
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 18
+
+(60, Symbol ('#', '#'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 19
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 19
+
+(60, Symbol ('1', '1'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 20
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 20
+
+(60, Symbol ('B', 'B'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 21
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 21
+
+(60, Symbol ('#', '#'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 22
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 22
+
+(60, Symbol ('0', '0'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 23
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 23
+
+(60, Symbol ('#', '#'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 24
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 24
+
+(60, Symbol ('S', 'S'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 25
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 25
+
+(60, Symbol ('b', 'b'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 26
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 26
+
+(60, Symbol ('$', '$'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 27
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 27
+
+(60, Symbol ('b', 'b'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 28
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 28
+
+(60, Symbol ('b', 'b'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 29
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 29
+
+(60, Symbol ('#', '#'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 30
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 30
+
+(60, Symbol ('1', '1'), 59)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 31
+
+(59, Move "RIGHT", 60)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 31
+
+(60, Symbol ('p', 'k'), 61)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1pbbb
+idx: 32
+
+(61, Symbol ('k', 'k'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 32
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 32
+
+(19964, Symbol ('1', '1'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 31
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 31
+
+(19964, Symbol ('#', '#'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 30
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 30
+
+(19964, Symbol ('b', 'b'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 29
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 29
+
+(19964, Symbol ('b', 'b'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 28
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 28
+
+(19964, Symbol ('$', '$'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 27
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 27
+
+(19964, Symbol ('b', 'b'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 26
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 26
+
+(19964, Symbol ('S', 'S'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 25
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 25
+
+(19964, Symbol ('#', '#'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 24
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 24
+
+(19964, Symbol ('0', '0'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 23
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 23
+
+(19964, Symbol ('#', '#'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 22
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 22
+
+(19964, Symbol ('B', 'B'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 21
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 21
+
+(19964, Symbol ('1', '1'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 20
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 20
+
+(19964, Symbol ('#', '#'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 19
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 19
+
+(19964, Symbol ('0', '0'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 18
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 18
+
+(19964, Symbol ('1', '1'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 17
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 17
+
+(19964, Symbol ('#', '#'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 16
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 16
+
+(19964, Symbol ('S', 'S'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 15
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 15
+
+(19964, Symbol ('M', 'M'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 14
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 14
+
+(19964, Symbol ('#', '#'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 13
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 13
+
+(19964, Symbol ('1', '1'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 12
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 12
+
+(19964, Symbol ('0', '0'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 11
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 11
+
+(19964, Symbol ('#', '#'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 10
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 10
+
+(19964, Symbol ('1', '1'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 9
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 9
+
+(19964, Symbol ('0', '0'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 8
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 8
+
+(19964, Symbol ('#', '#'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 7
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 7
+
+(19964, Symbol ('1', '1'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 6
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 6
+
+(19964, Symbol ('#', '#'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 5
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 5
+
+(19964, Symbol ('M', 'M'), 19965)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 4
+
+(19965, Move "LEFT", 19964)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 4
+
+(19964, Symbol ('p', 'p'), 19963)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(19963, Move "LEFT", 19962)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(19962, Symbol ('!', '!'), 19963)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(19963, Move "LEFT", 19962)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(19962, Symbol ('1', '1'), 19963)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(19963, Move "LEFT", 19962)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(19962, Symbol ('p', 'p'), 19961)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 0
+
+(19961, Move "RIGHT", 19960)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 0
+
+(19960, Symbol ('1', '1'), 19961)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(19961, Move "RIGHT", 19960)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(19960, Symbol ('!', '!'), 19961)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(19961, Move "RIGHT", 19960)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(19960, Symbol ('p', 'p'), 62)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(62, Symbol ('p', 'p'), 63)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(63, Symbol ('p', 'b'), 64)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(64, Move "STAY", 65)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(65, Symbol ('b', 'p'), 66)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(66, Move "LEFT", 67)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(67, Symbol ('!', '!'), 66)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(66, Move "LEFT", 67)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(67, Symbol ('1', '1'), 66)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(66, Move "LEFT", 67)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(67, Symbol ('p', 'b'), 68)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 0
+
+(68, Move "STAY", 69)
+b1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 0
+
+(69, Symbol ('b', 'p'), 70)
+b1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 0
+
+(70, Move "RIGHT", 71)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 0
+
+(71, Symbol ('1', '1'), 70)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(70, Move "RIGHT", 71)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(71, Symbol ('!', '!'), 70)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(70, Move "RIGHT", 71)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(71, Symbol ('p', 'p'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(73, Symbol ('M', 'M'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 4
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 4
+
+(73, Symbol ('#', '#'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 5
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 5
+
+(73, Symbol ('1', '1'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 6
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 6
+
+(73, Symbol ('#', '#'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 7
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 7
+
+(73, Symbol ('0', '0'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 8
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 8
+
+(73, Symbol ('1', '1'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 9
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 9
+
+(73, Symbol ('#', '#'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 10
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 10
+
+(73, Symbol ('0', '0'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 11
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 11
+
+(73, Symbol ('1', '1'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 12
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 12
+
+(73, Symbol ('#', '#'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 13
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 13
+
+(73, Symbol ('M', 'M'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 14
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 14
+
+(73, Symbol ('S', 'S'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 15
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 15
+
+(73, Symbol ('#', '#'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 16
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 16
+
+(73, Symbol ('1', '1'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 17
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 17
+
+(73, Symbol ('0', '0'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 18
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 18
+
+(73, Symbol ('#', '#'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 19
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 19
+
+(73, Symbol ('1', '1'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 20
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 20
+
+(73, Symbol ('B', 'B'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 21
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 21
+
+(73, Symbol ('#', '#'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 22
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 22
+
+(73, Symbol ('0', '0'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 23
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 23
+
+(73, Symbol ('#', '#'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 24
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 24
+
+(73, Symbol ('S', 'S'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 25
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 25
+
+(73, Symbol ('b', 'b'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 26
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 26
+
+(73, Symbol ('$', '$'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 27
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 27
+
+(73, Symbol ('b', 'b'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 28
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 28
+
+(73, Symbol ('b', 'b'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 29
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 29
+
+(73, Symbol ('#', '#'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 30
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 30
+
+(73, Symbol ('1', '1'), 72)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 31
+
+(72, Move "RIGHT", 73)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 31
+
+(73, Symbol ('k', '#'), 74)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 32
+
+(74, Move "LEFT", 75)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1#bbb
+idx: 32
+
+(75, Symbol ('1', 'I'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1#bbb
+idx: 31
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 31
+
+(77, Symbol ('#', '#'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 30
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 30
+
+(77, Symbol ('b', 'b'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 29
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 29
+
+(77, Symbol ('b', 'b'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 28
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 28
+
+(77, Symbol ('$', '$'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 27
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 27
+
+(77, Symbol ('b', 'b'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 26
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 26
+
+(77, Symbol ('S', 'S'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 25
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 25
+
+(77, Symbol ('#', '#'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 24
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 24
+
+(77, Symbol ('0', '0'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 23
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 23
+
+(77, Symbol ('#', '#'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 22
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 22
+
+(77, Symbol ('B', 'B'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 21
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 21
+
+(77, Symbol ('1', '1'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 20
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 20
+
+(77, Symbol ('#', '#'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 19
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 19
+
+(77, Symbol ('0', '0'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 18
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 18
+
+(77, Symbol ('1', '1'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 17
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 17
+
+(77, Symbol ('#', '#'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 16
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 16
+
+(77, Symbol ('S', 'S'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 15
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 15
+
+(77, Symbol ('M', 'M'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 14
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 14
+
+(77, Symbol ('#', '#'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 13
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 13
+
+(77, Symbol ('1', '1'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 12
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 12
+
+(77, Symbol ('0', '0'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 11
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 11
+
+(77, Symbol ('#', '#'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 10
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 10
+
+(77, Symbol ('1', '1'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 9
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 9
+
+(77, Symbol ('0', '0'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 8
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 8
+
+(77, Symbol ('#', '#'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 7
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 7
+
+(77, Symbol ('1', '1'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 6
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 6
+
+(77, Symbol ('#', '#'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 5
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 5
+
+(77, Symbol ('M', 'M'), 76)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 4
+
+(76, Move "LEFT", 77)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 4
+
+(77, Symbol ('p', 'p'), 78)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(78, Symbol ('p', 'p'), 80)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(80, Symbol ('p', 'b'), 81)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(81, Move "STAY", 82)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(82, Symbol ('b', 'p'), 83)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(83, Move "LEFT", 84)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(84, Symbol ('!', '!'), 83)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 2
+
+(83, Move "LEFT", 84)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 2
+
+(84, Symbol ('1', '1'), 83)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 1
+
+(83, Move "LEFT", 84)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 1
+
+(84, Symbol ('p', 'b'), 85)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 0
+
+(85, Move "STAY", 86)
+b1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 0
+
+(86, Symbol ('b', 'p'), 87)
+b1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 0
+
+(87, Move "RIGHT", 88)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 0
+
+(88, Symbol ('1', '1'), 87)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 1
+
+(87, Move "RIGHT", 88)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 1
+
+(88, Symbol ('!', '!'), 87)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 2
+
+(87, Move "RIGHT", 88)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 2
+
+(88, Symbol ('p', 'p'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(90, Symbol ('M', 'M'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 4
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 4
+
+(90, Symbol ('#', '#'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 5
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 5
+
+(90, Symbol ('1', '1'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 6
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 6
+
+(90, Symbol ('#', '#'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 7
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 7
+
+(90, Symbol ('0', '0'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 8
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 8
+
+(90, Symbol ('1', '1'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 9
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 9
+
+(90, Symbol ('#', '#'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 10
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 10
+
+(90, Symbol ('0', '0'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 11
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 11
+
+(90, Symbol ('1', '1'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 12
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 12
+
+(90, Symbol ('#', '#'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 13
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 13
+
+(90, Symbol ('M', 'M'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 14
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 14
+
+(90, Symbol ('S', 'S'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 15
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 15
+
+(90, Symbol ('#', '#'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 16
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 16
+
+(90, Symbol ('1', '1'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 17
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 17
+
+(90, Symbol ('0', '0'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 18
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 18
+
+(90, Symbol ('#', '#'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 19
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 19
+
+(90, Symbol ('1', '1'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 20
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 20
+
+(90, Symbol ('B', 'B'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 21
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 21
+
+(90, Symbol ('#', '#'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 22
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 22
+
+(90, Symbol ('0', '0'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 23
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 23
+
+(90, Symbol ('#', '#'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 24
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 24
+
+(90, Symbol ('S', 'S'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 25
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 25
+
+(90, Symbol ('b', 'b'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 26
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 26
+
+(90, Symbol ('$', '$'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 27
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 27
+
+(90, Symbol ('b', 'b'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 28
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 28
+
+(90, Symbol ('b', 'b'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 29
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 29
+
+(90, Symbol ('#', '#'), 89)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 30
+
+(89, Move "RIGHT", 90)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 30
+
+(90, Symbol ('I', '1'), 91)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 31
+
+(91, Move "LEFT", 92)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1#bbb
+idx: 31
+
+(92, Symbol ('#', 'k'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1#bbb
+idx: 30
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 30
+
+(94, Symbol ('b', 'b'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(94, Symbol ('b', 'b'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(94, Symbol ('$', '$'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(94, Symbol ('b', 'b'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(94, Symbol ('S', 'S'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(94, Symbol ('#', '#'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(94, Symbol ('0', '0'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(94, Symbol ('#', '#'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(94, Symbol ('B', 'B'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(94, Symbol ('1', '1'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(94, Symbol ('#', '#'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(94, Symbol ('0', '0'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(94, Symbol ('1', '1'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(94, Symbol ('#', '#'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(94, Symbol ('S', 'S'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(94, Symbol ('M', 'M'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(94, Symbol ('#', '#'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(94, Symbol ('1', '1'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(94, Symbol ('0', '0'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(94, Symbol ('#', '#'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(94, Symbol ('1', '1'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(94, Symbol ('0', '0'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(94, Symbol ('#', '#'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(94, Symbol ('1', '1'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(94, Symbol ('#', '#'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(94, Symbol ('M', 'M'), 93)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(93, Move "LEFT", 94)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(94, Symbol ('p', 'p'), 95)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(95, Symbol ('p', 'p'), 354)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(354, Move "LEFT", 355)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(355, Symbol ('!', '!'), 354)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(354, Move "LEFT", 355)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(355, Symbol ('1', '1'), 354)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(354, Move "LEFT", 355)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(355, Symbol ('p', 'p'), 371)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(371, Move "RIGHT", 372)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(372, Symbol ('1', '1'), 371)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(371, Move "RIGHT", 372)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(372, Symbol ('!', '!'), 371)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(371, Move "RIGHT", 372)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(372, Symbol ('p', 'p'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(374, Symbol ('M', 'M'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(374, Symbol ('#', '#'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(374, Symbol ('1', '1'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(374, Symbol ('#', '#'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(374, Symbol ('0', '0'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(374, Symbol ('1', '1'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(374, Symbol ('#', '#'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(374, Symbol ('0', '0'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(374, Symbol ('1', '1'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(374, Symbol ('#', '#'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(374, Symbol ('M', 'M'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(374, Symbol ('S', 'S'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(374, Symbol ('#', '#'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(374, Symbol ('1', '1'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(374, Symbol ('0', '0'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(374, Symbol ('#', '#'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(374, Symbol ('1', '1'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(374, Symbol ('B', 'B'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(374, Symbol ('#', '#'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(374, Symbol ('0', '0'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(374, Symbol ('#', '#'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(374, Symbol ('S', 'S'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(374, Symbol ('b', 'b'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(374, Symbol ('$', '$'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(374, Symbol ('b', 'b'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(374, Symbol ('b', 'b'), 373)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(373, Move "RIGHT", 374)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(374, Symbol ('k', 'k'), 375)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 30
+
+(375, Symbol ('k', 'k'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 30
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 30
+
+(20302, Symbol ('b', 'b'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(20302, Symbol ('b', 'b'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(20302, Symbol ('$', '$'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(20302, Symbol ('b', 'b'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(20302, Symbol ('S', 'S'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(20302, Symbol ('#', '#'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(20302, Symbol ('0', '0'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(20302, Symbol ('#', '#'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(20302, Symbol ('B', 'B'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(20302, Symbol ('1', '1'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(20302, Symbol ('#', '#'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(20302, Symbol ('0', '0'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(20302, Symbol ('1', '1'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(20302, Symbol ('#', '#'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(20302, Symbol ('S', 'S'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(20302, Symbol ('M', 'M'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(20302, Symbol ('#', '#'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(20302, Symbol ('1', '1'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(20302, Symbol ('0', '0'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(20302, Symbol ('#', '#'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(20302, Symbol ('1', '1'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(20302, Symbol ('0', '0'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(20302, Symbol ('#', '#'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(20302, Symbol ('1', '1'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(20302, Symbol ('#', '#'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(20302, Symbol ('M', 'M'), 20303)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(20303, Move "LEFT", 20302)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(20302, Symbol ('p', 'p'), 20301)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(20301, Move "LEFT", 20300)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(20300, Symbol ('!', '!'), 20301)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(20301, Move "LEFT", 20300)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(20300, Symbol ('1', '1'), 20301)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(20301, Move "LEFT", 20300)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(20300, Symbol ('p', 'p'), 20284)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(20284, Move "RIGHT", 20283)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(20283, Symbol ('1', '1'), 20284)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(20284, Move "RIGHT", 20283)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(20283, Symbol ('!', '!'), 20284)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(20284, Move "RIGHT", 20283)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(20283, Symbol ('p', 'p'), 336)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(336, Symbol ('p', 'p'), 337)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(337, Symbol ('p', 'b'), 338)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(338, Move "STAY", 339)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(339, Symbol ('b', 'p'), 340)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(340, Move "LEFT", 341)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(341, Symbol ('!', '!'), 340)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(340, Move "LEFT", 341)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(341, Symbol ('1', '1'), 340)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(340, Move "LEFT", 341)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(341, Symbol ('p', 'b'), 342)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(342, Move "STAY", 343)
+b1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(343, Symbol ('b', 'p'), 344)
+b1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(344, Move "RIGHT", 345)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(345, Symbol ('1', '1'), 344)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(344, Move "RIGHT", 345)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(345, Symbol ('!', '!'), 344)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(344, Move "RIGHT", 345)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(345, Symbol ('p', 'p'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(347, Symbol ('M', 'M'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(347, Symbol ('#', '#'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(347, Symbol ('1', '1'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(347, Symbol ('#', '#'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(347, Symbol ('0', '0'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(347, Symbol ('1', '1'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(347, Symbol ('#', '#'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(347, Symbol ('0', '0'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(347, Symbol ('1', '1'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(347, Symbol ('#', '#'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(347, Symbol ('M', 'M'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(347, Symbol ('S', 'S'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(347, Symbol ('#', '#'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(347, Symbol ('1', '1'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(347, Symbol ('0', '0'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(347, Symbol ('#', '#'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(347, Symbol ('1', '1'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(347, Symbol ('B', 'B'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(347, Symbol ('#', '#'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(347, Symbol ('0', '0'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(347, Symbol ('#', '#'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(347, Symbol ('S', 'S'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(347, Symbol ('b', 'b'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(347, Symbol ('$', '$'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(347, Symbol ('b', 'b'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(347, Symbol ('b', 'b'), 346)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(346, Move "RIGHT", 347)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(347, Symbol ('k', '#'), 348)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 30
+
+(348, Move "RIGHT", 349)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1#bbb
+idx: 30
+
+(349, Symbol ('1', 'I'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1#bbb
+idx: 31
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 31
+
+(351, Symbol ('#', '#'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 30
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 30
+
+(351, Symbol ('b', 'b'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 29
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 29
+
+(351, Symbol ('b', 'b'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 28
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 28
+
+(351, Symbol ('$', '$'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 27
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 27
+
+(351, Symbol ('b', 'b'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 26
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 26
+
+(351, Symbol ('S', 'S'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 25
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 25
+
+(351, Symbol ('#', '#'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 24
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 24
+
+(351, Symbol ('0', '0'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 23
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 23
+
+(351, Symbol ('#', '#'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 22
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 22
+
+(351, Symbol ('B', 'B'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 21
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 21
+
+(351, Symbol ('1', '1'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 20
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 20
+
+(351, Symbol ('#', '#'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 19
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 19
+
+(351, Symbol ('0', '0'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 18
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 18
+
+(351, Symbol ('1', '1'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 17
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 17
+
+(351, Symbol ('#', '#'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 16
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 16
+
+(351, Symbol ('S', 'S'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 15
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 15
+
+(351, Symbol ('M', 'M'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 14
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 14
+
+(351, Symbol ('#', '#'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 13
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 13
+
+(351, Symbol ('1', '1'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 12
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 12
+
+(351, Symbol ('0', '0'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 11
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 11
+
+(351, Symbol ('#', '#'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 10
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 10
+
+(351, Symbol ('1', '1'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 9
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 9
+
+(351, Symbol ('0', '0'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 8
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 8
+
+(351, Symbol ('#', '#'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 7
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 7
+
+(351, Symbol ('1', '1'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 6
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 6
+
+(351, Symbol ('#', '#'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 5
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 5
+
+(351, Symbol ('M', 'M'), 350)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 4
+
+(350, Move "LEFT", 351)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 4
+
+(351, Symbol ('p', 'p'), 319)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(319, Symbol ('p', 'p'), 320)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(320, Symbol ('p', 'b'), 321)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(321, Move "STAY", 322)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(322, Symbol ('b', 'p'), 323)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(323, Move "LEFT", 324)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(324, Symbol ('!', '!'), 323)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 2
+
+(323, Move "LEFT", 324)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 2
+
+(324, Symbol ('1', '1'), 323)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 1
+
+(323, Move "LEFT", 324)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 1
+
+(324, Symbol ('p', 'b'), 325)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 0
+
+(325, Move "STAY", 326)
+b1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 0
+
+(326, Symbol ('b', 'p'), 327)
+b1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 0
+
+(327, Move "RIGHT", 328)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 0
+
+(328, Symbol ('1', '1'), 327)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 1
+
+(327, Move "RIGHT", 328)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 1
+
+(328, Symbol ('!', '!'), 327)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 2
+
+(327, Move "RIGHT", 328)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 2
+
+(328, Symbol ('p', 'p'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(330, Symbol ('M', 'M'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 4
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 4
+
+(330, Symbol ('#', '#'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 5
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 5
+
+(330, Symbol ('1', '1'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 6
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 6
+
+(330, Symbol ('#', '#'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 7
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 7
+
+(330, Symbol ('0', '0'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 8
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 8
+
+(330, Symbol ('1', '1'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 9
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 9
+
+(330, Symbol ('#', '#'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 10
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 10
+
+(330, Symbol ('0', '0'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 11
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 11
+
+(330, Symbol ('1', '1'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 12
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 12
+
+(330, Symbol ('#', '#'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 13
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 13
+
+(330, Symbol ('M', 'M'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 14
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 14
+
+(330, Symbol ('S', 'S'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 15
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 15
+
+(330, Symbol ('#', '#'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 16
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 16
+
+(330, Symbol ('1', '1'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 17
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 17
+
+(330, Symbol ('0', '0'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 18
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 18
+
+(330, Symbol ('#', '#'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 19
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 19
+
+(330, Symbol ('1', '1'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 20
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 20
+
+(330, Symbol ('B', 'B'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 21
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 21
+
+(330, Symbol ('#', '#'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 22
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 22
+
+(330, Symbol ('0', '0'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 23
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 23
+
+(330, Symbol ('#', '#'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 24
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 24
+
+(330, Symbol ('S', 'S'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 25
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 25
+
+(330, Symbol ('b', 'b'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 26
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 26
+
+(330, Symbol ('$', '$'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 27
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 27
+
+(330, Symbol ('b', 'b'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 28
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 28
+
+(330, Symbol ('b', 'b'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 29
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 29
+
+(330, Symbol ('#', '#'), 329)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 30
+
+(329, Move "RIGHT", 330)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 30
+
+(330, Symbol ('I', '1'), 331)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 31
+
+(331, Move "RIGHT", 332)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1#bbb
+idx: 31
+
+(332, Symbol ('#', 'k'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1#bbb
+idx: 32
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 32
+
+(334, Symbol ('1', '1'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 31
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 31
+
+(334, Symbol ('#', '#'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 30
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 30
+
+(334, Symbol ('b', 'b'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 29
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 29
+
+(334, Symbol ('b', 'b'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 28
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 28
+
+(334, Symbol ('$', '$'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 27
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 27
+
+(334, Symbol ('b', 'b'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 26
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 26
+
+(334, Symbol ('S', 'S'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 25
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 25
+
+(334, Symbol ('#', '#'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 24
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 24
+
+(334, Symbol ('0', '0'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 23
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 23
+
+(334, Symbol ('#', '#'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 22
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 22
+
+(334, Symbol ('B', 'B'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 21
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 21
+
+(334, Symbol ('1', '1'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 20
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 20
+
+(334, Symbol ('#', '#'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 19
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 19
+
+(334, Symbol ('0', '0'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 18
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 18
+
+(334, Symbol ('1', '1'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 17
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 17
+
+(334, Symbol ('#', '#'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 16
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 16
+
+(334, Symbol ('S', 'S'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 15
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 15
+
+(334, Symbol ('M', 'M'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 14
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 14
+
+(334, Symbol ('#', '#'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 13
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 13
+
+(334, Symbol ('1', '1'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 12
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 12
+
+(334, Symbol ('0', '0'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 11
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 11
+
+(334, Symbol ('#', '#'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 10
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 10
+
+(334, Symbol ('1', '1'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 9
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 9
+
+(334, Symbol ('0', '0'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 8
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 8
+
+(334, Symbol ('#', '#'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 7
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 7
+
+(334, Symbol ('1', '1'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 6
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 6
+
+(334, Symbol ('#', '#'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 5
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 5
+
+(334, Symbol ('M', 'M'), 333)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 4
+
+(333, Move "LEFT", 334)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 4
+
+(334, Symbol ('p', 'p'), 256)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(256, Symbol ('p', 'p'), 257)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(257, Move "LEFT", 258)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(258, Symbol ('!', '!'), 257)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(257, Move "LEFT", 258)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(258, Symbol ('1', '1'), 257)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(257, Move "LEFT", 258)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(258, Symbol ('p', 'p'), 274)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 0
+
+(274, Move "RIGHT", 275)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 0
+
+(275, Symbol ('1', '1'), 274)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(274, Move "RIGHT", 275)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(275, Symbol ('!', '!'), 274)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(274, Move "RIGHT", 275)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(275, Symbol ('p', 'p'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(277, Symbol ('M', 'M'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 4
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 4
+
+(277, Symbol ('#', '#'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 5
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 5
+
+(277, Symbol ('1', '1'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 6
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 6
+
+(277, Symbol ('#', '#'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 7
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 7
+
+(277, Symbol ('0', '0'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 8
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 8
+
+(277, Symbol ('1', '1'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 9
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 9
+
+(277, Symbol ('#', '#'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 10
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 10
+
+(277, Symbol ('0', '0'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 11
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 11
+
+(277, Symbol ('1', '1'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 12
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 12
+
+(277, Symbol ('#', '#'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 13
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 13
+
+(277, Symbol ('M', 'M'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 14
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 14
+
+(277, Symbol ('S', 'S'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 15
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 15
+
+(277, Symbol ('#', '#'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 16
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 16
+
+(277, Symbol ('1', '1'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 17
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 17
+
+(277, Symbol ('0', '0'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 18
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 18
+
+(277, Symbol ('#', '#'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 19
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 19
+
+(277, Symbol ('1', '1'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 20
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 20
+
+(277, Symbol ('B', 'B'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 21
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 21
+
+(277, Symbol ('#', '#'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 22
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 22
+
+(277, Symbol ('0', '0'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 23
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 23
+
+(277, Symbol ('#', '#'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 24
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 24
+
+(277, Symbol ('S', 'S'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 25
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 25
+
+(277, Symbol ('b', 'b'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 26
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 26
+
+(277, Symbol ('$', '$'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 27
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 27
+
+(277, Symbol ('b', 'b'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 28
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 28
+
+(277, Symbol ('b', 'b'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 29
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 29
+
+(277, Symbol ('#', '#'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 30
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 30
+
+(277, Symbol ('1', '1'), 276)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 31
+
+(276, Move "RIGHT", 277)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 31
+
+(277, Symbol ('k', 'k'), 278)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 32
+
+(278, Symbol ('k', 'k'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 32
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 32
+
+(20239, Symbol ('1', '1'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 31
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 31
+
+(20239, Symbol ('#', '#'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 30
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 30
+
+(20239, Symbol ('b', 'b'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 29
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 29
+
+(20239, Symbol ('b', 'b'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 28
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 28
+
+(20239, Symbol ('$', '$'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 27
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 27
+
+(20239, Symbol ('b', 'b'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 26
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 26
+
+(20239, Symbol ('S', 'S'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 25
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 25
+
+(20239, Symbol ('#', '#'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 24
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 24
+
+(20239, Symbol ('0', '0'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 23
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 23
+
+(20239, Symbol ('#', '#'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 22
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 22
+
+(20239, Symbol ('B', 'B'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 21
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 21
+
+(20239, Symbol ('1', '1'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 20
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 20
+
+(20239, Symbol ('#', '#'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 19
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 19
+
+(20239, Symbol ('0', '0'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 18
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 18
+
+(20239, Symbol ('1', '1'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 17
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 17
+
+(20239, Symbol ('#', '#'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 16
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 16
+
+(20239, Symbol ('S', 'S'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 15
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 15
+
+(20239, Symbol ('M', 'M'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 14
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 14
+
+(20239, Symbol ('#', '#'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 13
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 13
+
+(20239, Symbol ('1', '1'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 12
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 12
+
+(20239, Symbol ('0', '0'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 11
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 11
+
+(20239, Symbol ('#', '#'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 10
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 10
+
+(20239, Symbol ('1', '1'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 9
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 9
+
+(20239, Symbol ('0', '0'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 8
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 8
+
+(20239, Symbol ('#', '#'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 7
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 7
+
+(20239, Symbol ('1', '1'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 6
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 6
+
+(20239, Symbol ('#', '#'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 5
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 5
+
+(20239, Symbol ('M', 'M'), 20240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 4
+
+(20240, Move "LEFT", 20239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 4
+
+(20239, Symbol ('p', 'p'), 20238)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(20238, Move "LEFT", 20237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(20237, Symbol ('!', '!'), 20238)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(20238, Move "LEFT", 20237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(20237, Symbol ('1', '1'), 20238)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(20238, Move "LEFT", 20237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(20237, Symbol ('p', 'p'), 20221)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 0
+
+(20221, Move "RIGHT", 20220)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 0
+
+(20220, Symbol ('1', '1'), 20221)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(20221, Move "RIGHT", 20220)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(20220, Symbol ('!', '!'), 20221)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(20221, Move "RIGHT", 20220)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(20220, Symbol ('p', 'p'), 239)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(239, Symbol ('p', 'p'), 240)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(240, Symbol ('p', 'b'), 241)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(241, Move "STAY", 242)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(242, Symbol ('b', 'p'), 243)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(243, Move "LEFT", 244)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(244, Symbol ('!', '!'), 243)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(243, Move "LEFT", 244)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(244, Symbol ('1', '1'), 243)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(243, Move "LEFT", 244)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(244, Symbol ('p', 'b'), 245)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 0
+
+(245, Move "STAY", 246)
+b1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 0
+
+(246, Symbol ('b', 'p'), 247)
+b1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 0
+
+(247, Move "RIGHT", 248)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 0
+
+(248, Symbol ('1', '1'), 247)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(247, Move "RIGHT", 248)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 1
+
+(248, Symbol ('!', '!'), 247)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(247, Move "RIGHT", 248)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 2
+
+(248, Symbol ('p', 'p'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 3
+
+(250, Symbol ('M', 'M'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 4
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 4
+
+(250, Symbol ('#', '#'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 5
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 5
+
+(250, Symbol ('1', '1'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 6
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 6
+
+(250, Symbol ('#', '#'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 7
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 7
+
+(250, Symbol ('0', '0'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 8
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 8
+
+(250, Symbol ('1', '1'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 9
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 9
+
+(250, Symbol ('#', '#'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 10
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 10
+
+(250, Symbol ('0', '0'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 11
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 11
+
+(250, Symbol ('1', '1'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 12
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 12
+
+(250, Symbol ('#', '#'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 13
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 13
+
+(250, Symbol ('M', 'M'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 14
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 14
+
+(250, Symbol ('S', 'S'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 15
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 15
+
+(250, Symbol ('#', '#'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 16
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 16
+
+(250, Symbol ('1', '1'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 17
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 17
+
+(250, Symbol ('0', '0'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 18
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 18
+
+(250, Symbol ('#', '#'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 19
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 19
+
+(250, Symbol ('1', '1'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 20
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 20
+
+(250, Symbol ('B', 'B'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 21
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 21
+
+(250, Symbol ('#', '#'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 22
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 22
+
+(250, Symbol ('0', '0'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 23
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 23
+
+(250, Symbol ('#', '#'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 24
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 24
+
+(250, Symbol ('S', 'S'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 25
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 25
+
+(250, Symbol ('b', 'b'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 26
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 26
+
+(250, Symbol ('$', '$'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 27
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 27
+
+(250, Symbol ('b', 'b'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 28
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 28
+
+(250, Symbol ('b', 'b'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 29
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 29
+
+(250, Symbol ('#', '#'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 30
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 30
+
+(250, Symbol ('1', '1'), 249)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 31
+
+(249, Move "RIGHT", 250)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 31
+
+(250, Symbol ('k', '#'), 251)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1kbbb
+idx: 32
+
+(251, Move "LEFT", 252)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1#bbb
+idx: 32
+
+(252, Symbol ('1', 'I'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1#bbb
+idx: 31
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 31
+
+(254, Symbol ('#', '#'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 30
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 30
+
+(254, Symbol ('b', 'b'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 29
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 29
+
+(254, Symbol ('b', 'b'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 28
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 28
+
+(254, Symbol ('$', '$'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 27
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 27
+
+(254, Symbol ('b', 'b'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 26
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 26
+
+(254, Symbol ('S', 'S'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 25
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 25
+
+(254, Symbol ('#', '#'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 24
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 24
+
+(254, Symbol ('0', '0'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 23
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 23
+
+(254, Symbol ('#', '#'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 22
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 22
+
+(254, Symbol ('B', 'B'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 21
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 21
+
+(254, Symbol ('1', '1'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 20
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 20
+
+(254, Symbol ('#', '#'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 19
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 19
+
+(254, Symbol ('0', '0'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 18
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 18
+
+(254, Symbol ('1', '1'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 17
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 17
+
+(254, Symbol ('#', '#'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 16
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 16
+
+(254, Symbol ('S', 'S'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 15
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 15
+
+(254, Symbol ('M', 'M'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 14
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 14
+
+(254, Symbol ('#', '#'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 13
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 13
+
+(254, Symbol ('1', '1'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 12
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 12
+
+(254, Symbol ('0', '0'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 11
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 11
+
+(254, Symbol ('#', '#'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 10
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 10
+
+(254, Symbol ('1', '1'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 9
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 9
+
+(254, Symbol ('0', '0'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 8
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 8
+
+(254, Symbol ('#', '#'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 7
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 7
+
+(254, Symbol ('1', '1'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 6
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 6
+
+(254, Symbol ('#', '#'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 5
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 5
+
+(254, Symbol ('M', 'M'), 253)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 4
+
+(253, Move "LEFT", 254)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 4
+
+(254, Symbol ('p', 'p'), 222)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(222, Symbol ('p', 'p'), 223)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(223, Symbol ('p', 'b'), 224)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(224, Move "STAY", 225)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(225, Symbol ('b', 'p'), 226)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(226, Move "LEFT", 227)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(227, Symbol ('!', '!'), 226)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 2
+
+(226, Move "LEFT", 227)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 2
+
+(227, Symbol ('1', '1'), 226)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 1
+
+(226, Move "LEFT", 227)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 1
+
+(227, Symbol ('p', 'b'), 228)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 0
+
+(228, Move "STAY", 229)
+b1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 0
+
+(229, Symbol ('b', 'p'), 230)
+b1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 0
+
+(230, Move "RIGHT", 231)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 0
+
+(231, Symbol ('1', '1'), 230)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 1
+
+(230, Move "RIGHT", 231)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 1
+
+(231, Symbol ('!', '!'), 230)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 2
+
+(230, Move "RIGHT", 231)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 2
+
+(231, Symbol ('p', 'p'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 3
+
+(233, Symbol ('M', 'M'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 4
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 4
+
+(233, Symbol ('#', '#'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 5
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 5
+
+(233, Symbol ('1', '1'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 6
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 6
+
+(233, Symbol ('#', '#'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 7
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 7
+
+(233, Symbol ('0', '0'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 8
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 8
+
+(233, Symbol ('1', '1'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 9
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 9
+
+(233, Symbol ('#', '#'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 10
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 10
+
+(233, Symbol ('0', '0'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 11
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 11
+
+(233, Symbol ('1', '1'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 12
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 12
+
+(233, Symbol ('#', '#'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 13
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 13
+
+(233, Symbol ('M', 'M'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 14
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 14
+
+(233, Symbol ('S', 'S'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 15
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 15
+
+(233, Symbol ('#', '#'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 16
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 16
+
+(233, Symbol ('1', '1'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 17
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 17
+
+(233, Symbol ('0', '0'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 18
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 18
+
+(233, Symbol ('#', '#'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 19
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 19
+
+(233, Symbol ('1', '1'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 20
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 20
+
+(233, Symbol ('B', 'B'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 21
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 21
+
+(233, Symbol ('#', '#'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 22
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 22
+
+(233, Symbol ('0', '0'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 23
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 23
+
+(233, Symbol ('#', '#'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 24
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 24
+
+(233, Symbol ('S', 'S'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 25
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 25
+
+(233, Symbol ('b', 'b'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 26
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 26
+
+(233, Symbol ('$', '$'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 27
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 27
+
+(233, Symbol ('b', 'b'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 28
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 28
+
+(233, Symbol ('b', 'b'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 29
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 29
+
+(233, Symbol ('#', '#'), 232)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 30
+
+(232, Move "RIGHT", 233)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 30
+
+(233, Symbol ('I', '1'), 234)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#I#bbb
+idx: 31
+
+(234, Move "LEFT", 235)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1#bbb
+idx: 31
+
+(235, Symbol ('#', 'k'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bb#1#bbb
+idx: 30
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 30
+
+(237, Symbol ('b', 'b'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(237, Symbol ('b', 'b'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(237, Symbol ('$', '$'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(237, Symbol ('b', 'b'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(237, Symbol ('S', 'S'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(237, Symbol ('#', '#'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(237, Symbol ('0', '0'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(237, Symbol ('#', '#'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(237, Symbol ('B', 'B'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(237, Symbol ('1', '1'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(237, Symbol ('#', '#'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(237, Symbol ('0', '0'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(237, Symbol ('1', '1'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(237, Symbol ('#', '#'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(237, Symbol ('S', 'S'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(237, Symbol ('M', 'M'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(237, Symbol ('#', '#'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(237, Symbol ('1', '1'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(237, Symbol ('0', '0'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(237, Symbol ('#', '#'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(237, Symbol ('1', '1'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(237, Symbol ('0', '0'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(237, Symbol ('#', '#'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(237, Symbol ('1', '1'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(237, Symbol ('#', '#'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(237, Symbol ('M', 'M'), 236)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(236, Move "LEFT", 237)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(237, Symbol ('p', 'p'), 159)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(159, Symbol ('p', 'p'), 160)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(160, Move "LEFT", 161)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(161, Symbol ('!', '!'), 160)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(160, Move "LEFT", 161)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(161, Symbol ('1', '1'), 160)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(160, Move "LEFT", 161)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(161, Symbol ('p', 'p'), 177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(177, Move "RIGHT", 178)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(178, Symbol ('1', '1'), 177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(177, Move "RIGHT", 178)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(178, Symbol ('!', '!'), 177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(177, Move "RIGHT", 178)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(178, Symbol ('p', 'p'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(180, Symbol ('M', 'M'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(180, Symbol ('#', '#'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(180, Symbol ('1', '1'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(180, Symbol ('#', '#'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(180, Symbol ('0', '0'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(180, Symbol ('1', '1'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(180, Symbol ('#', '#'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(180, Symbol ('0', '0'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(180, Symbol ('1', '1'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(180, Symbol ('#', '#'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(180, Symbol ('M', 'M'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(180, Symbol ('S', 'S'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(180, Symbol ('#', '#'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(180, Symbol ('1', '1'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(180, Symbol ('0', '0'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(180, Symbol ('#', '#'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(180, Symbol ('1', '1'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(180, Symbol ('B', 'B'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(180, Symbol ('#', '#'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(180, Symbol ('0', '0'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(180, Symbol ('#', '#'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(180, Symbol ('S', 'S'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(180, Symbol ('b', 'b'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(180, Symbol ('$', '$'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(180, Symbol ('b', 'b'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(180, Symbol ('b', 'b'), 179)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(179, Move "RIGHT", 180)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(180, Symbol ('k', 'k'), 181)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 30
+
+(181, Symbol ('k', 'k'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 30
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 30
+
+(20176, Symbol ('b', 'b'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(20176, Symbol ('b', 'b'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(20176, Symbol ('$', '$'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(20176, Symbol ('b', 'b'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(20176, Symbol ('S', 'S'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(20176, Symbol ('#', '#'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(20176, Symbol ('0', '0'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(20176, Symbol ('#', '#'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(20176, Symbol ('B', 'B'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(20176, Symbol ('1', '1'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(20176, Symbol ('#', '#'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(20176, Symbol ('0', '0'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(20176, Symbol ('1', '1'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(20176, Symbol ('#', '#'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(20176, Symbol ('S', 'S'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(20176, Symbol ('M', 'M'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(20176, Symbol ('#', '#'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(20176, Symbol ('1', '1'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(20176, Symbol ('0', '0'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(20176, Symbol ('#', '#'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(20176, Symbol ('1', '1'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(20176, Symbol ('0', '0'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(20176, Symbol ('#', '#'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(20176, Symbol ('1', '1'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(20176, Symbol ('#', '#'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(20176, Symbol ('M', 'M'), 20177)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(20177, Move "LEFT", 20176)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(20176, Symbol ('p', 'p'), 20175)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(20175, Move "LEFT", 20174)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(20174, Symbol ('!', '!'), 20175)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(20175, Move "LEFT", 20174)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(20174, Symbol ('1', '1'), 20175)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(20175, Move "LEFT", 20174)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(20174, Symbol ('p', 'p'), 20158)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(20158, Move "RIGHT", 20157)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(20157, Symbol ('1', '1'), 20158)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(20158, Move "RIGHT", 20157)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(20157, Symbol ('!', '!'), 20158)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(20158, Move "RIGHT", 20157)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(20157, Symbol ('p', 'p'), 96)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(96, Symbol ('p', 'p'), 97)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(97, Move "LEFT", 98)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(98, Symbol ('!', '!'), 97)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(97, Move "LEFT", 98)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(98, Symbol ('1', '1'), 97)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(97, Move "LEFT", 98)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(98, Symbol ('p', 'p'), 114)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(114, Move "RIGHT", 115)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(115, Symbol ('1', '1'), 114)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(114, Move "RIGHT", 115)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(115, Symbol ('!', '!'), 114)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(114, Move "RIGHT", 115)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(115, Symbol ('p', 'p'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(117, Symbol ('M', 'M'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(117, Symbol ('#', '#'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(117, Symbol ('1', '1'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(117, Symbol ('#', '#'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(117, Symbol ('0', '0'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(117, Symbol ('1', '1'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(117, Symbol ('#', '#'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(117, Symbol ('0', '0'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(117, Symbol ('1', '1'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(117, Symbol ('#', '#'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(117, Symbol ('M', 'M'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(117, Symbol ('S', 'S'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(117, Symbol ('#', '#'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(117, Symbol ('1', '1'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(117, Symbol ('0', '0'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(117, Symbol ('#', '#'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(117, Symbol ('1', '1'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(117, Symbol ('B', 'B'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(117, Symbol ('#', '#'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(117, Symbol ('0', '0'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(117, Symbol ('#', '#'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(117, Symbol ('S', 'S'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(117, Symbol ('b', 'b'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(117, Symbol ('$', '$'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(117, Symbol ('b', 'b'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(117, Symbol ('b', 'b'), 116)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(116, Move "RIGHT", 117)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(117, Symbol ('k', 'k'), 118)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 30
+
+(118, Symbol ('k', 'k'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 30
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 30
+
+(19987, Symbol ('b', 'b'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(19987, Symbol ('b', 'b'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(19987, Symbol ('$', '$'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(19987, Symbol ('b', 'b'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(19987, Symbol ('S', 'S'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(19987, Symbol ('#', '#'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(19987, Symbol ('0', '0'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(19987, Symbol ('#', '#'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(19987, Symbol ('B', 'B'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(19987, Symbol ('1', '1'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(19987, Symbol ('#', '#'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(19987, Symbol ('0', '0'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(19987, Symbol ('1', '1'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(19987, Symbol ('#', '#'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(19987, Symbol ('S', 'S'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(19987, Symbol ('M', 'M'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(19987, Symbol ('#', '#'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(19987, Symbol ('1', '1'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(19987, Symbol ('0', '0'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(19987, Symbol ('#', '#'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(19987, Symbol ('1', '1'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(19987, Symbol ('0', '0'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(19987, Symbol ('#', '#'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(19987, Symbol ('1', '1'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(19987, Symbol ('#', '#'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(19987, Symbol ('M', 'M'), 19988)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(19988, Move "LEFT", 19987)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(19987, Symbol ('p', 'p'), 19986)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(19986, Move "LEFT", 19985)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(19985, Symbol ('!', '!'), 19986)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(19986, Move "LEFT", 19985)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(19985, Symbol ('1', '1'), 19986)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(19986, Move "LEFT", 19985)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(19985, Symbol ('p', 'p'), 19969)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(19969, Move "RIGHT", 19968)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(19968, Symbol ('1', '1'), 19969)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(19969, Move "RIGHT", 19968)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(19968, Symbol ('!', '!'), 19969)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(19969, Move "RIGHT", 19968)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(19968, Symbol ('p', 'p'), 576)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(576, Symbol ('p', 'p'), 577)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(577, Symbol ('p', 'b'), 578)
+p1!pM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(578, Move "RIGHT", 579)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(579, Symbol ('M', 'W'), 580)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(580, Move "LEFT", 581)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(581, Symbol ('b', 'b'), 580)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(580, Move "LEFT", 581)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(581, Symbol ('!', '!'), 580)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(580, Move "LEFT", 581)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(581, Symbol ('1', '1'), 580)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(580, Move "LEFT", 581)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(581, Symbol ('p', 'b'), 582)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(582, Move "STAY", 583)
+b1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(583, Symbol ('b', 'p'), 584)
+b1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(584, Move "RIGHT", 585)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(585, Symbol ('1', '1'), 584)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(584, Move "RIGHT", 585)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(585, Symbol ('!', '!'), 584)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(584, Move "RIGHT", 585)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(585, Symbol ('b', 'b'), 584)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(584, Move "RIGHT", 585)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(585, Symbol ('W', 'W'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(587, Symbol ('#', '#'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(587, Symbol ('1', '1'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(587, Symbol ('#', '#'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(587, Symbol ('0', '0'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(587, Symbol ('1', '1'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(587, Symbol ('#', '#'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(587, Symbol ('0', '0'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(587, Symbol ('1', '1'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(587, Symbol ('#', '#'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(587, Symbol ('M', 'M'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(587, Symbol ('S', 'S'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(587, Symbol ('#', '#'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(587, Symbol ('1', '1'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(587, Symbol ('0', '0'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(587, Symbol ('#', '#'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(587, Symbol ('1', '1'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(587, Symbol ('B', 'B'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(587, Symbol ('#', '#'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(587, Symbol ('0', '0'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(587, Symbol ('#', '#'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(587, Symbol ('S', 'S'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(587, Symbol ('b', 'b'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(587, Symbol ('$', '$'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(587, Symbol ('b', 'b'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(587, Symbol ('b', 'b'), 586)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(586, Move "RIGHT", 587)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(587, Symbol ('k', '#'), 588)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 30
+
+(588, Move "STAY", 589)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bb#1#bbb
+idx: 30
+
+(589, Symbol ('#', 'k'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bb#1#bbb
+idx: 30
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 30
+
+(591, Symbol ('b', 'b'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(591, Symbol ('b', 'b'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(591, Symbol ('$', '$'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(591, Symbol ('b', 'b'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(591, Symbol ('S', 'S'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(591, Symbol ('#', '#'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(591, Symbol ('0', '0'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(591, Symbol ('#', '#'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(591, Symbol ('B', 'B'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(591, Symbol ('1', '1'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(591, Symbol ('#', '#'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(591, Symbol ('0', '0'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(591, Symbol ('1', '1'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(591, Symbol ('#', '#'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(591, Symbol ('S', 'S'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(591, Symbol ('M', 'M'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(591, Symbol ('#', '#'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(591, Symbol ('1', '1'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(591, Symbol ('0', '0'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(591, Symbol ('#', '#'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(591, Symbol ('1', '1'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(591, Symbol ('0', '0'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(591, Symbol ('#', '#'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(591, Symbol ('1', '1'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(591, Symbol ('#', '#'), 590)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(590, Move "LEFT", 591)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(591, Symbol ('W', 'W'), 592)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(592, Symbol ('W', 'W'), 657)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(657, Move "LEFT", 658)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(658, Symbol ('b', 'b'), 657)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(657, Move "LEFT", 658)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(658, Symbol ('!', '!'), 657)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(657, Move "LEFT", 658)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(658, Symbol ('1', '1'), 657)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(657, Move "LEFT", 658)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(658, Symbol ('p', 'p'), 674)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(674, Move "RIGHT", 675)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(675, Symbol ('1', '1'), 674)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(674, Move "RIGHT", 675)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(675, Symbol ('!', '!'), 674)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(674, Move "RIGHT", 675)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(675, Symbol ('b', 'b'), 674)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(674, Move "RIGHT", 675)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(675, Symbol ('W', 'W'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(677, Symbol ('#', '#'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(677, Symbol ('1', '1'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(677, Symbol ('#', '#'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(677, Symbol ('0', '0'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(677, Symbol ('1', '1'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(677, Symbol ('#', '#'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(677, Symbol ('0', '0'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(677, Symbol ('1', '1'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(677, Symbol ('#', '#'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(677, Symbol ('M', 'M'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(677, Symbol ('S', 'S'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(677, Symbol ('#', '#'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(677, Symbol ('1', '1'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(677, Symbol ('0', '0'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(677, Symbol ('#', '#'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(677, Symbol ('1', '1'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(677, Symbol ('B', 'B'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(677, Symbol ('#', '#'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(677, Symbol ('0', '0'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(677, Symbol ('#', '#'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(677, Symbol ('S', 'S'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(677, Symbol ('b', 'b'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(677, Symbol ('$', '$'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(677, Symbol ('b', 'b'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(677, Symbol ('b', 'b'), 676)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(676, Move "RIGHT", 677)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(677, Symbol ('k', 'k'), 678)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 30
+
+(678, Symbol ('k', 'k'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 30
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 30
+
+(20491, Symbol ('b', 'b'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 29
+
+(20491, Symbol ('b', 'b'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 28
+
+(20491, Symbol ('$', '$'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 27
+
+(20491, Symbol ('b', 'b'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 26
+
+(20491, Symbol ('S', 'S'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 25
+
+(20491, Symbol ('#', '#'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 24
+
+(20491, Symbol ('0', '0'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 23
+
+(20491, Symbol ('#', '#'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 22
+
+(20491, Symbol ('B', 'B'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 21
+
+(20491, Symbol ('1', '1'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 20
+
+(20491, Symbol ('#', '#'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 19
+
+(20491, Symbol ('0', '0'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 18
+
+(20491, Symbol ('1', '1'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 17
+
+(20491, Symbol ('#', '#'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 16
+
+(20491, Symbol ('S', 'S'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 15
+
+(20491, Symbol ('M', 'M'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 14
+
+(20491, Symbol ('#', '#'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 13
+
+(20491, Symbol ('1', '1'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 12
+
+(20491, Symbol ('0', '0'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 11
+
+(20491, Symbol ('#', '#'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 10
+
+(20491, Symbol ('1', '1'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 9
+
+(20491, Symbol ('0', '0'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 8
+
+(20491, Symbol ('#', '#'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 7
+
+(20491, Symbol ('1', '1'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 6
+
+(20491, Symbol ('#', '#'), 20492)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(20492, Move "LEFT", 20491)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(20491, Symbol ('W', 'W'), 20490)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(20490, Move "LEFT", 20489)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(20489, Symbol ('b', 'b'), 20490)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(20490, Move "LEFT", 20489)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(20489, Symbol ('!', '!'), 20490)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(20490, Move "LEFT", 20489)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(20489, Symbol ('1', '1'), 20490)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(20490, Move "LEFT", 20489)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(20489, Symbol ('p', 'p'), 20473)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(20473, Move "RIGHT", 20472)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(20472, Symbol ('1', '1'), 20473)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(20473, Move "RIGHT", 20472)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(20472, Symbol ('!', '!'), 20473)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(20473, Move "RIGHT", 20472)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(20472, Symbol ('b', 'b'), 20473)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(20473, Move "RIGHT", 20472)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(20472, Symbol ('W', 'W'), 11197)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(11197, Symbol ('W', 'W'), 11198)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(11198, Symbol ('W', 'M'), 11199)
+p1!bW#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(11199, Move "RIGHT", 11200)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(11200, Symbol ('#', 'k'), 11201)
+p1!bM#1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(11201, Move "LEFT", 11202)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 5
+
+(11202, Symbol ('M', 'M'), 11201)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(11201, Move "LEFT", 11202)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(11202, Symbol ('b', 'b'), 11201)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(11201, Move "LEFT", 11202)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(11202, Symbol ('!', '!'), 11201)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(11201, Move "LEFT", 11202)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(11202, Symbol ('1', '1'), 11201)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(11201, Move "LEFT", 11202)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(11202, Symbol ('p', 'b'), 11203)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(11203, Move "STAY", 11204)
+b1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(11204, Symbol ('b', 'p'), 11205)
+b1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(11205, Move "RIGHT", 11206)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 0
+
+(11206, Symbol ('1', '1'), 11205)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(11205, Move "RIGHT", 11206)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 1
+
+(11206, Symbol ('!', '!'), 11205)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(11205, Move "RIGHT", 11206)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 2
+
+(11206, Symbol ('b', 'b'), 11205)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(11205, Move "RIGHT", 11206)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 3
+
+(11206, Symbol ('M', 'M'), 11205)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+
+(11205, Move "RIGHT", 11206)
+p1!bMk1#01#01#MS#10#1B#0#Sb$bbk1#bbb
+idx: 4
+

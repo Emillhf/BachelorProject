@@ -2,15 +2,18 @@
 encoded_symbols = {
     'B': 'P',
     'b': 'p',
-    '#': 'H',
+    '#': 'k',
+    'H': 'h',
     '0': 'O',
     '1': 'I',
     'S': 'Z',
-    'M': 'W'
+    's': 'z',
+    'M': 'W',
+    'm': 'w',
 }
 
 alfa = ['0', '1', 'B', '#', 'S', 'M','b','P','p','H','O','I','Z','W','!','$']
-gamma = ['P','p','H','O','I','Z','W']
+gamma = ['P','p','O','I','Z','W','w','z','h','k']
 alfa_gamma_removed = [symbol for symbol in alfa if symbol not in gamma]
 example = (1,('b','b'),2)
 

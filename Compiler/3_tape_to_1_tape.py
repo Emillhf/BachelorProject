@@ -6,11 +6,16 @@ import Inverter
 encoded_symbols = {
     'B': 'P',
     'b': 'p',
-    '#': 'H',
+    '#': 'k',
+    'H': 'h',
     '0': 'O',
     '1': 'I',
     'S': 'Z',
+    's': 'z',
     'M': 'W',
+    'm': 'w',
+    '!': '!',
+    '$': '$',
 }
     
 def groupByStates(rules:list[str]):
@@ -270,6 +275,7 @@ def Expand(instructions_top,instructions_bottom):
         else:
             result, count, states_dict = Expand_symbol_bottom_tree(states,count,states_dict,connection_dict)
         final.append(result)
+    print(count)
     final.append([(states_dict['0'],"(LEFT)",count+1)])
     final.append([(count+1,("alfa!=(gamma)","alfa!=(gamma)"),states_dict['0'])])
     final.append([(count+1,("gamma","gamma"),count+2)])
@@ -314,8 +320,8 @@ test_single_rev = [[[[[('0', '(b,b)', '(1,b)', '(1,b)', '1')]], [[('0', '(1,1)',
 # name = "Write_0_or_1.txt"
 # name = "clear_state.txt"
 # name = "write_state.txt"
-name = "apply_symbol.txt"
-# name = "URTM.txt"
+# name = "apply_symbol.txt"
+name = "URTM.txt"
 # name = "Move_test.txt"
 file = open("Expanded_RTM_programs/"+name, 'r')
 lines = file.readlines()

@@ -11,3 +11,7 @@ let writeCharArrayToFile (filePath: string) (charArrays: char [] * char [] * cha
     writer.WriteLine(A2)
     writer.WriteLine("$")
     writer.WriteLine(A3)
+
+let write_1_line (filePath:string) (array: char []) =
+    use writer = new StreamWriter(filePath, false)
+    writer.WriteLine(array)
