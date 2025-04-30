@@ -5,7 +5,7 @@ def read_file(input_filename):
     lines = [line.strip() for line in lines]
     return lines
 
-def extract_elms_1_tape(rule):
+def extract_elms_tape(rule):
     rule = rule.replace('(','')
     rule = rule.replace(')','')
     rule = rule.split(',')

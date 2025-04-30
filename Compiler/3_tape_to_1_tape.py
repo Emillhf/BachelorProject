@@ -16,6 +16,7 @@ encoded_symbols = {
     'm': 'w',
     '!': '!',
     '$': '$',
+    'k': 'K'
 }
     
 def groupByStates(rules:list[str]):
@@ -250,15 +251,16 @@ def Expand_move(states,count,states_dict):
 
 def Expand(instructions_top,instructions_bottom):
     print("top: ", instructions_top)
-    states_dict = {'1': 3}
+    states_dict = {'1': 4}
     connection_dict = {}
     final = []
     count = 1
-    final.append([(count,"(RIGHT)",count+1)])
-    final.append([(count+1,("alfa!=(gamma)","alfa!=(gamma)"),count)])
-    final.append([(count+1,("gamma","gamma"),count+2)])
+    final.append([(count,"(STAY)",count+1)])
+    final.append([(count+1,"(RIGHT)",count+2)])
+    final.append([(count+2,("alfa!=(gamma)","alfa!=(gamma)"),count+1)])
+    final.append([(count+2,("gamma","gamma"),count+3)])
 
-    count += 3
+    count += 4
     for states in instructions_top:
         if (states[0][0][0][0][1] == "(LEFT)" or
             states[0][0][0][0][1] == "(RIGHT)" or

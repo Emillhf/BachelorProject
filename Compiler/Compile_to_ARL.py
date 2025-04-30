@@ -15,7 +15,7 @@ def ARL_encoding(symbol):
 def Convert_to_ARL(rules):
     translated_rules = []
     for rule in rules:
-        rule_elms = Read_file.extract_elms_1_tape(rule)
+        rule_elms = Read_file.extract_elms_tape(rule)
         if len(rule_elms[1]) > 1:
             ## Move rule translation
             translated_rules.append(f"(({rule_elms[0]} . (SLASH . ({ARL_encoding(rule_elms[1])} . {rule_elms[-1]}))) .")

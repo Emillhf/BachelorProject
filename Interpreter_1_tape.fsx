@@ -147,8 +147,8 @@ let bin_inc = [|'p';'0';'0';'1';'1';'b';
 //printfn "%A" (RMT (apply_symbol,(1,547),input_apply))
 //printfn "%A" (RMT (rev_apply_symbol, (547,1), rev_input_apply))
 
-printfn "%A" (RMT (URTM,(1,38473),input_URTM))
+//printfn "%A" (RMT (URTM,(1,43784),input_URTM))
 //printfn "%A" (RMT (URTM,(1,9240),bin_inc))
-//printfn "%A" (RMT (rev_URTM,(9240,1),input_rev_URTM))
+printfn "%A" (RMT (rev_URTM,(43784,1),input_rev_URTM))
 //printfn "%A" (RMT (rev_URTM,(9240,1),bin_inc))
 // printfn "%A" (RMT (rev_URTM_ends_on_one,(14460,1),input_rev_URTM))
